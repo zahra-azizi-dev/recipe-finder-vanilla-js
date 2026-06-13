@@ -54,8 +54,4 @@ This project uses [DummyJSON](https://dummyjson.com/docs/recipes) free recipes A
 | `GET /recipes?limit=12` | Fetch list of recipes |
 | `GET /recipes/search?q={query}` | Search recipes by name |
 
-
-
-## 👨‍💻 Author
-
-Made with ❤️ — feel free to fork and improve!
+Made with ZahraAzizi ❤️
