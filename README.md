@@ -1,11 +1,12 @@
-demo(https://zahra-azizi-dev.github.io/recipe-finder-vanilla-js/)
 
 # 🍽️ Recipe App
 
 A responsive recipe discovery web app built with vanilla JavaScript, Tailwind CSS, and the DummyJSON Recipes API.
 
-📸 Preview
-![Uploading image.png…]()
+
+
+📸 Demo(https://zahra-azizi-dev.github.io/recipe-finder-vanilla-js/)
+
 
 
 
